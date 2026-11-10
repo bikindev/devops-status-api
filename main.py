@@ -4,4 +4,4 @@ app = FastAPI(title="Status Monitor API")
 
 @app.get("/hello")
 def read_hello():
-    return "Hello World"
+    return "Hello World 2"
